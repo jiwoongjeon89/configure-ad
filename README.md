@@ -129,7 +129,9 @@ What we just did was turn off the Firewall only for the Domain Profile.
    If done correctly, the Windows Defender Firewall with Advanced Security page should look like this. 
 </p>
 <br />
-
+<p>
+  -
+</p>
 
 <p>
 Now, we need to set Client-1’s (name of Windows 10 VM) DNS settings to DC-1’s Private IP address. 
