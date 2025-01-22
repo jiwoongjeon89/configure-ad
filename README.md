@@ -6,7 +6,8 @@
   <p>
     Part 1: Preparing Active Directory Infrastructure in Azure
   </p></h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.
+This lab is divided into 3 parts.<br />
 
 <h2>Environments and Technologies Used</h2>
 
